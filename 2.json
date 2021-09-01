@@ -1,0 +1,14 @@
+{
+  "id": 0,
+  "service": "CREDIT CARD VISA",
+  "code": "PTLUTHETDC29152021123325",
+  "code_Alt": "210528100100200000015",
+  "code_AltS": "210528100100200000015",
+  "address": "AV 8, 12829 New York",
+  "phone": "899-1234-0000",
+  "status": 7,
+  "articleId": 5290,
+  "routeId": "HR315202112264542",
+  "userId": "26987",
+  "approvalStatus": 1
+}
